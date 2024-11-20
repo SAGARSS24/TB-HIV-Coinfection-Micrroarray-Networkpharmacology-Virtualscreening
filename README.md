@@ -1,11 +1,8 @@
-Title: Computational Gene Expression Analysis in HIV and HIV/TB Co-Infected Individuals of Microarray Data by Employing Network Pharmacology and Machine Learning Drug Designing Methodologies
+**Title:** Computational Gene Expression Analysis in HIV and HIV/TB Co-Infected Individuals of Microarray Data by Employing Network Pharmacology and Machine Learning Drug Designing Methodologies
 
-Keywords: TB/HIV, Coinfection, Microarray analysis, Network biology, QSAR-ML, Virtual screening, molecular docking.
+**Keywords: TB/HIV, Coinfection, Microarray analysis, Network biology, QSAR-ML, Virtual screening, molecular docking.**
 
 ![Graphical Abstract](./Graphical%20abstract.png)
-
-Description:
-Identification of a therapeutic target through microarray datasets for the TB-HIV coinfection state. The identified target was further explored using cheminformatics and machine learning to identify potent inhibitors capable of modulating the coinfection state.
 
 **Description:**  
 Identification of a therapeutic target through microarray datasets for the TB-HIV coinfection state. The identified target was further explored using cheminformatics and machine learning to identify potent inhibitors capable of modulating the coinfection state.  
